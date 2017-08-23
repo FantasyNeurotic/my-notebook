@@ -24,7 +24,7 @@ then you must set the PGPORT because the default port is 5432, `export PGPORT=64
 
 ## use the part of postgresql about nosql
 * `CREATE EXTENSION hstore;` 
-* postgresql的nosql方式主要体现在jsonb的处理
+* postgresql的nosql方式主要体现在jsonb的处理
 >
 >
 | operator| Right Operand Type | Description | Example|
