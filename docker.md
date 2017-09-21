@@ -1,4 +1,3 @@
-the way for docker
 #docker 学习相关
 * 云计算概念相关（restapi, 微服务，OpenStack）
 * Linux 系统管理（软件包管理，用户管理，进程管理等）
