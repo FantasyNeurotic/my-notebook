@@ -66,7 +66,7 @@ RUN npm install
 EXPOSE 3001
 
 # 设置启动时默认运行命令
-CMD ["nodejs”, “/srv/hello/index"]
+CMD ["nodejs", "/srv/hello/index"]
 ```
 
 * 构建镜像
